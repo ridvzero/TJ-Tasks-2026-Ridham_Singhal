@@ -2,7 +2,7 @@
 
 **Author:** Ridham Singhal  
 **Student ID:** 26SCSE1010788  
-**Organization:** TJ AI easy Task  
+**TASK NAME:** TJ AI easy task
 
 ---
 
