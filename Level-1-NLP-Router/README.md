@@ -1,25 +1,25 @@
-# NLP Intent Router 🚀
+# NLP Router 
 
 **Author:** Ridham Singhal  
 **Student ID:** 26SCSE1010788  
-**Organization:** TechnoJam AI Task  
+**Organization:** TJ AI easy Task  
 
 ---
 
-## 📌 Overview
+## Overview
 
-This project is a lightweight, rule-based **NLP Intent Router** written in Python. It processes user text queries by tokenizing input, removing common English stopwords, and routing the request to the appropriate support department based on keyword matching.
+This router takes user complaint , strips out the plain english words and uses if-else statements to route the complaint to appropriate departments.
 
 ---
 
-## 🛠️ How It Works
+##  How It Works
 
 1. **Tokenization (`tokenizing_text`)**: Converts the input query to lowercase and splits it into individual words.
 2. **Stopword Filtering (`removing_words`)**: Filters out common non-essential words (e.g., `"is"`, `"the"`, `"to"`) to extract core keywords.
-3. **Intent Routing (`routing`)**: Evaluates the remaining keywords against target category lists and routes the query.
+3. **Intent Routing (`routing`)**: Evaluates the remaining keywords against predefined lists and routes the query.
 
 ---
-## 🧪 Example Screenshots
+##  Example Screenshots
 
 ### 1. Technical Support Test
 ![Technical Support Screenshot]<img width="656" height="112" alt="Screenshot 2026-09-10 232614" src="https://github.com/user-attachments/assets/57d0f7c5-113b-4166-869f-95bf63c7a306" />
